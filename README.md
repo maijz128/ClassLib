@@ -1,0 +1,2 @@
+# ClassLib
+My class library.
